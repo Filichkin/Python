@@ -1,1 +1,4 @@
-
+Some investigations how to determine normal distribution from numeric features of datasets
+- Visual method using a histogram;
+- Visual method using QQ graph;
+- Shapiro-Wilk test is a hypothesis test
